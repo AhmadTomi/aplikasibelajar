@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094410937003",
+    "project_id": "aplikasibelajar-93a37",
+    "storage_bucket": "aplikasibelajar-93a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094410937003:android:2e66695b11b7354c090dee",
+        "android_client_info": {
+          "package_name": "com.ahmadtomi.aplikasibelajar.aplikasibelajar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094410937003-1fv69gi7vq0pvu1ljjci69up8a0tdbg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTrjaaAWJW9-4uw5DG_N-cas5qtGTjUqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094410937003-1fv69gi7vq0pvu1ljjci69up8a0tdbg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
